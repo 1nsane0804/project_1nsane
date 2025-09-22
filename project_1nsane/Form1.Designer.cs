@@ -1,4 +1,4 @@
-﻿namespace project_1nsane
+﻿namespace WindowsFormsApp4
 {
     partial class Form1
     {
