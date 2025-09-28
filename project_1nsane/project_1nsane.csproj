@@ -46,6 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Armor.cs" />
+    <Compile Include="Classes\Enemy.cs" />
+    <Compile Include="Classes\GameEngineClass.cs" />
+    <Compile Include="Classes\GameEvent.cs" />
+    <Compile Include="Classes\Generators\ArmorGenerator.cs" />
+    <Compile Include="Classes\Generators\ShopItemGenerator.cs" />
+    <Compile Include="Classes\Generators\WeaponGenerator.cs" />
+    <Compile Include="Classes\Player.cs" />
+    <Compile Include="Classes\Weapon.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
